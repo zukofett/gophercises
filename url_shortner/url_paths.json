@@ -1,0 +1,9 @@
+[
+    {
+        "path": "/json-go",
+        "url": "https://pkg.go.dev/encoding/json"
+    },{
+        "path": "/json-blog",
+        "url": "https://go.dev/blog/json"
+    }
+]

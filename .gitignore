@@ -17,6 +17,8 @@
 
 # Problem input files
 !*.csv
+!*.yaml
+!*.json
 
 !README.md
 !LICENSE
